@@ -1,0 +1,143 @@
+.text1{
+    color: indianred;
+   font-size: 60px;
+   position: relative;
+   top: -10px;
+   left: 0px; 
+}
+
+.imag1{
+    width: 50%;
+    height: 650px;
+    position: relative;
+    left: 620px;
+    bottom: 260px;
+}
+
+.imag2{
+    background-image: url(assets/glass.jpg);
+    background-repeat: no-repeat;
+    width: 99.5%;
+    height: 650px;
+    position: relative;
+    top:450px;
+    left: 4px;
+}
+
+.divA{
+    text-align: center;
+    position: relative;
+    top: 490px;
+}
+
+.divB{
+    background-image: url(assets/eye2.jpg);
+    width: 280px;
+    height: 300px;
+    position: relative;
+    top: 630px;
+    left: 180px;
+}
+
+.divC{
+    background-image: url(assets/world.webp);
+    width: 280px;
+    height: 300px;
+    position: relative;
+    top: 330px;
+    left: 470px;
+}
+
+.divD{
+    background-image: url(assets/desktop.jpg);
+    width: 280px;
+    height: 300px;
+    position: relative;
+    top: 30px;
+    left: 763px; 
+}
+
+.divE{
+    background-image: url(assets/paint.png);
+    width: 280px;
+    height: 300px;
+    position: relative;
+    top: -270px;
+    left: 1055px; 
+}
+
+.divF{
+    width: 500px;
+    position: relative;
+    left: 780px;
+    top: 260px;
+}
+
+.divG{
+    width: 500px;
+    position: relative;
+    left: 150px;
+    top: 720px;
+}
+
+.divH{
+    position: relative;
+    top: 700px;
+    left: 500px;
+}
+
+.title{
+    width: 100%;
+    text-align: center;
+    position: relative;
+    top: 1120px;
+}
+
+.divI{
+    background-image: url(assets/paint.png);
+    width: 456px;
+    height: 420px;
+    position: relative;
+    top: 1190px;
+    left: 175px;
+}
+
+.paragraphe{
+    position: absolute;
+    top: 360px;
+    width: 470px;
+}
+
+.text2{
+    position: relative;
+    top: 430px;
+}
+
+.text3{
+    position: relative;
+    top: 100px;
+}
+
+.divJ{
+    background-image: url(assets/desktop.jpg);
+    width: 240px;
+    height: 260px;
+    position: relative;
+    top: 770px;
+    left: 743px; 
+}
+
+.divK{ 
+    background-image: url(assets/desktop.jpg);
+    width: 240px;
+    height: 260px;
+    position: relative;
+    top: 800px;
+    left: 743px; 
+}
+
+.contain{
+    position: relative;
+    top: 1200px;
+    width: 92%;
+}
